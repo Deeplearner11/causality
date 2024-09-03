@@ -1,0 +1,13 @@
+torch
+transformers
+bitsandbytes
+accelerate
+networkx
+lingam
+numpy
+pandas
+matplotlib
+scikit-learn
+statsmodels
+langchain
+langchain_groq
